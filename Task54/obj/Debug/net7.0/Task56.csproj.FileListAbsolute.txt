@@ -1,0 +1,15 @@
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/bin/Debug/net7.0/Task56
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/bin/Debug/net7.0/Task56.deps.json
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/bin/Debug/net7.0/Task56.runtimeconfig.json
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/bin/Debug/net7.0/Task56.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/bin/Debug/net7.0/Task56.pdb
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/obj/Debug/net7.0/Task56.csproj.AssemblyReference.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/obj/Debug/net7.0/Task56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/obj/Debug/net7.0/Task56.AssemblyInfoInputs.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/obj/Debug/net7.0/Task56.AssemblyInfo.cs
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/obj/Debug/net7.0/Task56.csproj.CoreCompileInputs.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/obj/Debug/net7.0/Task56.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/obj/Debug/net7.0/refint/Task56.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/obj/Debug/net7.0/Task56.pdb
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/obj/Debug/net7.0/Task56.genruntimeconfig.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/obj/Debug/net7.0/ref/Task56.dll

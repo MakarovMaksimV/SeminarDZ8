@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task56/Task56.csproj": {}
+    "/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/Task56.csproj": {}
   },
   "projects": {
-    "/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task56/Task56.csproj": {
+    "/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/Task56.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task56/Task56.csproj",
+        "projectUniqueName": "/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/Task56.csproj",
         "projectName": "Task56",
-        "projectPath": "/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task56/Task56.csproj",
+        "projectPath": "/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/Task56.csproj",
         "packagesPath": "/Users/maksimmakarov/.nuget/packages/",
-        "outputPath": "/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task56/obj/",
+        "outputPath": "/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task54/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maksimmakarov/.nuget/NuGet/NuGet.Config"
