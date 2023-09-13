@@ -1,0 +1,15 @@
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/obj/Debug/net7.0/Task58.csproj.AssemblyReference.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/obj/Debug/net7.0/Task58.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/obj/Debug/net7.0/Task58.AssemblyInfoInputs.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/obj/Debug/net7.0/Task58.AssemblyInfo.cs
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/obj/Debug/net7.0/Task58.csproj.CoreCompileInputs.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/bin/Debug/net7.0/Task58
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/bin/Debug/net7.0/Task58.deps.json
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/bin/Debug/net7.0/Task58.runtimeconfig.json
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/bin/Debug/net7.0/Task58.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/bin/Debug/net7.0/Task58.pdb
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/obj/Debug/net7.0/Task58.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/obj/Debug/net7.0/refint/Task58.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/obj/Debug/net7.0/Task58.pdb
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/obj/Debug/net7.0/Task58.genruntimeconfig.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ8/Task58/obj/Debug/net7.0/ref/Task58.dll
